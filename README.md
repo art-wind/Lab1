@@ -8,7 +8,7 @@ Lab1
 In this lab, you should implement a tiny dictionary, which offers functions 'add', 'delete', 'update' and 'search'. You will get a better understanding of struct, reference and pointer in C++ when completing this lab.
 
 ## Release
-This lab is release on [https://github.com/orgs/OOP-ss12](https://github.com/orgs/OOP-ss12). We do encourage you to register an account of github and fork this repository, but you can just use the linking `download zip` to get the source code.
+This lab is release on [https://github.com/orgs/OOP-ss12/Lab1](https://github.com/orgs/OOP-ss12/Lab1). We do encourage you to register an account of github and fork this repository, but you can just use the linking `download zip` to get the source code.
 The source file contains: 
 
 - lab1.cpp
