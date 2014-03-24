@@ -69,6 +69,8 @@ The methods you should implement are:
 
 **Qustion3. Describe how you implement the four methods in dict.cpp.**
 
+**Note**: please compile these code using `g++ dict.cpp lab1.cpp -o lab1`, and run your program using `./lab1`. Any problem with compiling, feel free to contact your [TA](mailto: 11300180158@fudan.edu.cn).
+
 
 ## Handin
 Package all file you get from github together with an *answer.txt* included all answers of questions into ** studentid.zip **, and upload it to *ftp*.
